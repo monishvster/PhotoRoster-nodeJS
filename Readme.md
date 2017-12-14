@@ -5,10 +5,6 @@
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
 3. [Integration](#integration)
-4. [Usage](#usage)
-   - [Initialization](#initialization)
-   - [Maintenance](#maintenance)
-5. [Contact Us](#contact-us)
 
 ## Introduction
 
@@ -33,21 +29,7 @@ The Photo Roster is a LTI tool in Canvas that allows instructors to view photos 
 > - We are using external csv to map Sections with their Instructors as that information might not be latest on the Canvas.
 > - You might need to make some changes in the authentication.js file inorder to match SIS ID mapping as per your institution.
 
-## Usage
-#### Initialization
-Demo video (coming soon)
-#### Maintenance
-- You need to update the CSV file mapping Section(SIS ID) and Instructor(SIS ID) every term.
 
-
-## Contact Us
-Learning and Teaching Center  
-Northwest Missouri State University  
-800 University Drive  
-Maryville, MO - 64468  
-
-Email: [ltcite@nwmissouri.edu](ltcite@nwmissouri.edu)  
-Phone: (660) 562-1532
 
 [1]: https://canvas.instructure.com/
 [2]: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
